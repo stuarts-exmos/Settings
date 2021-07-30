@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Nord",
+    "workbench.iconTheme": "material-icon-theme",
+    "tabnine.experimentalAutoImports": true,
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "workbench.startupEditor": "none"
+}

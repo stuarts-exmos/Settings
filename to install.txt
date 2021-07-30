@@ -1,0 +1,78 @@
+[X] NET Framework 4.6.2 SDK
+[X] Visual Studio 2019 Enterprise
+[X] Visual Studio Code
+	Plugins:
+	- [X] Calva
+	- [X] Golang
+	- [X] Nord
+	- [X] Prettify Symbols
+	- [X] Prettify Json
+	- [X] Rainbow Brackets
+	- [X] Git Lens
+	- [X] Material Icons
+	- [X] Markdown
+	- [X] Markdown Preview
+	- [X] Netlify
+	- [X] Sqlite
+[X] Golang
+	- [X] GCC
+[X] SSMS
+[ ] Sql Server
+[X] LinqPad
+[X] Teams
+[X] Python
+[X] Windows Terminal
+	- [X] Ubuntu 20.04 
+	- [X] Nord Theme
+[X] Clojure
+	- [X] Babashka
+	- [X] GraalVM
+		- [X] Native Image
+	- [X] Shadow cljs
+[X] Java
+[X] Jetbrains Toolbox
+	- [X] Rider
+		- [X] Nord
+		- [X] Extra Icons
+		- [X] Cyclomatic Complexity
+	- [X] Datagrip
+		- [X] Nord
+	- [X] Resharper
+	- [X] DotPeek
+[X] Notepad++
+	- [X] Nord theme
+	- [X] Compare
+[X] 7zip
+[X] Firefox
+	- [X] Speed DIal
+	- [X] Ghostery
+	- [X] No Script
+	- [X] DDG Block Unwanted Results
+	- [X] U Block Origin
+	- [X] Tree Style Tabs
+	- [X] Multi-containers
+	- [X] userChrome - hide tabs, auto-hide / show TST
+	- [X] TST Bookmarks Sub panel
+	- [X] DDG Privacy Essentials
+[X] Chrome
+[X] Office
+[X] Slack
+[X] FiraCode
+[X] git
+[X] git desktop
+[X] Keeper Desktop
+[X] L: subst
+[X] OBS
+[X] Inkscape
+[X] node
+[X] Chocolately
+[X] Wix Toolset
+	- [X] .NET 3.5.1
+[X] Timesheet
+[X] SentilanDebugger
+[X] WinDirStat
+[X] Wizmo
+[ ] Minidash
+[X] HyperV
+	- [X] Win10 image
+	- [X] Ubuntu image.
