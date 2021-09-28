@@ -72,7 +72,7 @@
 [X] SentilanDebugger
 [X] WinDirStat
 [X] Wizmo
-[ ] Minidash
+[X] Minidash
 [X] HyperV
 	- [X] Win10 image
 	- [X] Ubuntu image.
