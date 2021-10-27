@@ -1,0 +1,94 @@
+{
+	// Place your snippets for clojure here. Each snippet is defined under a snippet name and has a prefix, body and 
+	// description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. Placeholders with the 
+	// same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+
+	"defn": {
+		"prefix": "defn",
+		"body": [
+			"(defn $1 [$2])"
+		],
+		"description": "add a function"
+	},
+	"fn": {
+		"prefix": "fn",
+		"body": [
+			"(fn [$1])"
+		],
+		"description": "add an anonymous function"
+	},
+	"apply": {
+		"prefix": "apply",
+		"body": [
+			"(apply $1)"
+		],
+		"description": "apply"
+	},
+	"doseq": {
+		"prefix": "doseq",
+		"body": [
+			"(doseq [$1])"
+		],
+		"description": "doseq"
+	},
+	"comp": {
+		"prefix": "comp",
+		"body": [
+			"(comp $1)"
+		],
+		"description": "comp"
+	},
+	"reduce": {
+		"prefix": "reduce",
+		"body": [
+			"(reduce $1)"
+		],
+		"description": "reduce"
+	},
+	"map": {
+		"prefix": "map",
+		"body": [
+			"(map $1)"
+		],
+		"description": "map"
+	},
+	"set-intersection": {
+		"prefix": "set/inter",
+		"body": [
+			"(set/intersection $1)"
+		],
+		"description": "set intersection"
+	},
+	"set-union": {
+		"prefix": "set/union",
+		"body": [
+			"(set/union $1)"
+		],
+		"description": "set union"
+	},
+	"def": {
+		"prefix": "def",
+		"body": [
+			"(def $1)"
+		],
+		"description": "def"
+	},
+	"set-diff": {
+		"prefix": "set/diff",
+		"body": [
+			"(set/difference $1)"
+		],
+		"description": "set difference"
+	}
+
+}
