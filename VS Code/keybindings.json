@@ -1,0 +1,103 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "alt+shift+f",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && editorLangId == clojure",
+        "args": {
+            "langId": "clojure",
+            "name": "defn"
+        }
+    },
+    {
+        "key": "alt+f",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && editorLangId == clojure",
+        "args": {
+            "langId": "clojure",
+            "name": "fn"
+        }
+    },
+    {
+        "key": "alt+shift+a",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && editorLangId == clojure",
+        "args": {
+            "langId": "clojure",
+            "name": "apply"
+        }
+    },
+    {
+        "key": "alt+a",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && editorLangId == clojure",
+        "args": {
+            "langId": "clojure",
+            "name": "doseq"
+        }
+    },
+    {
+        "key": "alt+c",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && editorLangId == clojure",
+        "args": {
+            "langId": "clojure",
+            "name": "comp"
+        }
+    },
+    {
+        "key": "alt+r",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && editorLangId == clojure",
+        "args": {
+            "langId": "clojure",
+            "name": "reduce"
+        }
+    },
+    {
+        "key": "alt+m",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && editorLangId == clojure",
+        "args": {
+            "langId": "clojure",
+            "name": "map"
+        }
+    },
+    {
+        "key": "alt+i",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && editorLangId == clojure",
+        "args": {
+            "langId": "clojure",
+            "name": "set-intersection"
+        }
+    },
+    {
+        "key": "alt+u",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && editorLangId == clojure",
+        "args": {
+            "langId": "clojure",
+            "name": "set-union"
+        }
+    },
+    {
+        "key": "alt+d",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && editorLangId == clojure",
+        "args": {
+            "langId": "clojure",
+            "name": "def"
+        }
+    },
+    {
+        "key": "alt+-",
+        "command": "editor.action.insertSnippet",
+        "when": "editorTextFocus && editorLangId == clojure",
+        "args": {
+            "langId": "clojure",
+            "name": "set-diff"
+        }
+    }
+
+]
